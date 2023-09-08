@@ -1,0 +1,44 @@
+body{
+    background-image: url("https://64.media.tumblr.com/9eb93c776f8c8c3a0497912b3994d30c/tumblr_inline_nsta49k1Ip1r02mf8_1280.jpg");
+    padding: 0px;
+    margin: 0px;
+    background-size: cover;
+}
+form{
+    /* margin-top: 15%; */
+    margin-left:20%;
+     margin-right: 20%;
+      background-color:rgba(255, 192, 203, 0.57); 
+      height: 100vh;
+}
+input{
+    /* width:90%; */
+    /* padding:10px; */
+    margin:10px;
+    border-width:2px ;
+}
+input[type="text"]{
+    width:500px;
+    height: 30px;
+}
+input[type="email"]{
+    width:500px;
+    height: 30px;
+}
+input[type="textarea"]{
+    width:500px;
+    height: 50px;
+}
+input[type="submit"]{
+    width:90px;
+    height: 50px;
+}
+.sub{
+    width:900px;
+    height: 90px;
+    box-shadow:0 0 3px 0 rgba(0,0,0,0.3);
+    padding:10px;
+    margin:8% auto 0;
+    text-align:center;
+    border-color: black;
+}
